@@ -1,8 +1,5 @@
 # BootanimationDMY
 
-<p align="center">
-<img src="https://www.gizmochina.com/wp-content/uploads/2019/08/Cuts-2-Bootanimation.gif" alt="Cuts-2-Bootanimation.gif">
-</p>
 
 ## Prior notice
 I am not responsible for bricked devices or dead SD cards. YOU choose to install this module. If you will blame me, I will laugh at you. BTW, don't forget to take a TWRP backup before flashing, so that you will be in the safe zone.
