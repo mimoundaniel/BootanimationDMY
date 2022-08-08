@@ -34,9 +34,5 @@ OR<br/>
 <li>Reboot and enjoy!</li>
 </ul>
 
-## Credits
-<a href="https://github.com/dhruvkrishnavaid">Dhruv Krishna Vaid</a> - for making this module<br />
-<a href="https://github.com/topjohnwu">John Wu</a> - for developing Magisk<br />
-The one who created this animation (Sorry, but I don't know his name)
 
 ## Happy flashing!
